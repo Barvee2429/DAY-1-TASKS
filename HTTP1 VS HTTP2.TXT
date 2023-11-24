@@ -1,0 +1,15 @@
+HTTP 1
+It works on the textual format.
+It works on the binary framing layer, converts all the messages to binary format.
+There is a persistent connection established between the server request and responses.
+All the requests and responses are merged in to a single connection.	
+It works on multiplexing and one TCP connection is used for multiple requests.
+
+HTTP 2
+It compresses the data by itself for speedup the process.
+It uses HTTP packets for compression,
+Major drawback will be client cannot separate the resource and the document	It uses PUSH_PROMISE,
+Server push is client control
+	
+	
+

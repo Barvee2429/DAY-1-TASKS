@@ -1,0 +1,11 @@
+OBJECTS:
+
+Objects are the important datatypes in javascript.
+These are different than primitive datatypes,
+primitve datatypes can hold one value but objects can hold many values in the form of key:value Pair
+These keys can be variables or functions and called properties and methods in the context of the object.
+
+REPRESENTATION :
+Objectname.Objectproperty = propertyvalue
+example:
+//var myName = new object();
